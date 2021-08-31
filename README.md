@@ -1,2 +1,4 @@
 # Primeiro  Repositório do Git/Github pela DIO
-Repositório para o Defafio de projeto.
+Segue ai o meu repositório padrão para todos os meus projetos do __**Git/GutHub.**__
+
+__E vocês estão de parabéns, continuem assim que farão muitos Devs felizes que nem eu :)__
